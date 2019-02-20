@@ -1,0 +1,12 @@
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\bin\Release\ChatClient.exe
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\bin\Release\ChatClient.pdb
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Release\ChatClient.exe
+C:\Users\Adam\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Release\ChatClient.pdb
+C:\Users\Adam\Desktop\ADAM\C#\ChatClient\ChatClient\bin\Release\ChatClient.exe
+C:\Users\Adam\Desktop\ADAM\C#\ChatClient\ChatClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\Adam\Desktop\ADAM\C#\ChatClient\ChatClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\Adam\Desktop\ADAM\C#\ChatClient\ChatClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\ADAM\C#\ChatClient\ChatClient\obj\Release\ChatClient.exe
+C:\Users\Adam\Desktop\ADAM\C#\ChatClient\ChatClient\obj\Release\ChatClient.pdb
+C:\Users\Adam\Desktop\ADAM\C#\ChatClient\ChatClient\bin\Release\ChatClient.pdb

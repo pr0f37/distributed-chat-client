@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ChatClient">
+</Property><Property Name="Solution File" Value="C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\ChatClient.sln">
+</Property><Property Name="User Options File" Value="C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\ChatClient.suo">
+</Property><Property Name="Date" Value="8 czerwca 2010">
+</Property><Property Name="Time" Value="09:27">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ChatClient.sln" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ChatClient.suo" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient.suo">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\ChatClient.csproj" Description="Project file successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\ChatClient.csproj">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\ConnHandler.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\ConnHandler.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\Message\QuitAck.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\Message\QuitAck.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\Message\ReceiverMessage.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\Message\ReceiverMessage.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\Users\ChatUser.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\Users\ChatUser.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\ConfigurationReader.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\ConfigurationReader.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\ChatConsole.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\ChatConsole.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\ListeningWorker.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\ListeningWorker.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\Logger.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\Logger.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\Message\Message.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\Message\Message.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\Users\Neighbour.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\Users\Neighbour.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\Message\NewUserMsg.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\Message\NewUserMsg.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\Program.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\Program.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\Message\RefreshVcMsg.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\Message\RefreshVcMsg.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\SystemInformator.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\SystemInformator.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\Message\TalkMsg.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\Message\TalkMsg.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\TCPPortListener.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\TCPPortListener.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\TCPPortWriter.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\TCPPortWriter.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\Message\UserJoinedMsg.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\Message\UserJoinedMsg.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\Message\UserQuitMsg.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\Message\UserQuitMsg.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\Message\UsersListMsg.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\Message\UsersListMsg.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\Users\User.cs" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\Users\User.cs">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\config.xml" Description="File successfully backed up as C:\Users\lenovo\Desktop\ADAM\C#\ChatClient\Backup\ChatClient\config.xml">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\ChatClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ChatClient" Source="ChatClient\ChatClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ChatClient.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ChatClient.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ChatClient" Source="ChatClient\ChatClient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
